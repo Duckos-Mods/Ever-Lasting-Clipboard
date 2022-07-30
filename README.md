@@ -6,3 +6,5 @@ for 2 ctrl+alt+c for 3 alt+z for 4 alt+x for 5 alt+c for 6
 # Installing For Auto Start
 if you dont whant to have to start the script manualy every time u start your pc just put the script the %appdata%\Microsoft\Windows\Start Menu\Programs\Startup and it 
 now starts automaticaly 
+# Compiling 
+Download the elc.ahk then download autohotkey V1 then right click then click compile
